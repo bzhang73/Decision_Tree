@@ -1,0 +1,42 @@
+Data_set1
+The First decision tree:
+Training：1.00
+Validation：0.96
+Test：0.96
+
+The First decision tree with pruning:
+Training：0.77
+Validation：0.75
+Test：0.70
+
+The Second decision tree:
+Training：1.00
+Validation：0.94
+Test：0.94
+
+The Second decision tree with pruning::
+Training：0.50
+Validation：0.50
+Test：0.50
+
+Data_set2
+The First decision tree:
+Training：1.00
+Validation：0.77
+Test：0.72
+
+The First decision tree with pruning:
+Training：0.50
+Validation：0.50
+Test：0.50
+
+The Second decision tree:
+Training：1.00
+Validation：0.56
+Test：0.59
+
+The Second decision tree with pruning::
+Training：0.50
+Validation：0.50
+Test：0.50
+
